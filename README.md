@@ -28,7 +28,7 @@ contacted, Alan Scott, the Vice President of R&D and gave the requirements to de
   6.1 Monthly sale $ totals. <br/>
   6.2 Products that were sold. <br/>
   6.3 Which sales person sold the products, each sales person can see their report only but not other product reports sold by other sales people. <br/>
-  6.4 Products that were returned. <br/>
+  6.4 Products that were returned. <br/><br/><br/>
   <b>7.0 Delivery TimeFrame</b><br/>
   Due to the New Year, Tony wanted to get the new system fully operational by end of
 Dec. 2024. <br/><br/><br/>
