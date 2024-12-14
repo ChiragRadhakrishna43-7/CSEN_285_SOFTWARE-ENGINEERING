@@ -41,7 +41,7 @@ improvement and you are asked to write a Systems Test Plan as your first assignm
 with the Organization.<br/><br/><br/>
 
   <h2><b>E2: Write The Requirement Specification based on The Ideation Findings-</b></h2>
-  Write a requirement document based on the following specifications:<br/>
+  Write a requirement document based on the following specifications:<br/><br/>
   1.0 Print 5000 checks.<br/>
   2.0 FICA 15.85% deduction.<br/>
   3.0 State: 10% deduction.<br/>
