@@ -1,6 +1,6 @@
 # CSEN_285_SOFTWARE-ENGINEERING
 
-<h2><b>E1 Write a Project Development Plan based on the Requirements Document</b></h2>
+<h2><b>E1 Write a Project Development Plan based on the Requirements Document-</b></h2>
 <p align="justify">For the given requirement document, a detailed software development plan was developed. The specifications of the requirement document are as follows: <br/><br/>
 For any questions regarding the Requirement document, you are to "assume" that you have already asked them and the individual who wrote the Requirement document, have provided the answers to you.<br/>
 The Development Plan is to be in either Word or PowerPoint document. Please use "LARGE" fonts.<br/><br/>
@@ -38,5 +38,7 @@ test the Sales System. He decided to have his developers develop the system and 
 to hire his friends, Joe Blank, Mike Brosne and Jon Underwood for testing the system. <br/>
   You are hired as a consultant to assist in test planning and overall test process
 improvement and you are asked to write a Systems Test Plan as your first assignment
-with the Organization.
+with the Organization.<br/><br/><br/>
+
+  <h2><b>E2 Write The Requirement Specification based on the Ideation Findings-</b></h2>
 </p>
