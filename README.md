@@ -53,7 +53,7 @@ with the Organization.<br/><br/><br/></p>
   9.0 Only managers can access gross/net earnings reports.<br/>
   10.0 Employees can see their own net earnings, gross earnings and 401K deductions, Vacation 
   time (used/remaining).<br/>
-  11.0 Payroll system will interface with GL system and send the earning records to the G/L (general ledger).</p><br/><br/><br/>
+  11.0 Payroll system will interface with GL system and send the earning records to the G/L (general ledger).</p><br/><br/>
   
   <h2><b>E3: Development of a Software Development Life Cycle Model-</b></h2>
   <p align="justify">Write a SDLC Plan for an E-Commerce Platform Model for a start-up company. Utilize a suitable development process model (Waterfall/Agile/Hybrid/).<br/><br/><br/>
