@@ -56,5 +56,18 @@ with the Organization.<br/><br/><br/></p>
   11.0 Payroll system will interface with GL system and send the earning records to the G/L (general ledger).</p><br/><br/>
   
   <h2><b>E3: Development of a Software Development Life Cycle Model-</b></h2>
-  <p align="justify">Write a SDLC Plan for an E-Commerce Platform Model for a start-up company. Utilize a suitable development process model (Waterfall/Agile/Hybrid/).<br/><br/><br/>
-</p>
+  <p align="justify">Write a SDLC Plan for an E-Commerce Platform Model for a start-up company. Utilize a suitable development process model (Waterfall/Agile/Hybrid/).<br/><br/></p>
+
+  <h2><b>E4: Requirement Document-</b></h2>
+  <p align="justify">1.0 Think of a software company that you just started. The company either has Supply Chain management SW applications; or General ledger SW applications; or Material
+Management SW applications; or Customer satisfaction survey applications or any other application you can think of.<br/>
+2.0 Develop a Requirement document for your first application product that the developers
+can use to develop the product. <br/>
+3.0 Identify all the functions you will need, including reports. <br/>
+4.0 Identify security requirements and the platform on which your application will run. <br/>
+5.0 Decide whether this SW will be sold domestically or internationally.<br/>
+6.0 Decide on number of users that can access the system at the same time.<br/>
+7.0 Decide on whether every employee will access to all the functions or some of the
+functions can only be performed by certain management individual.<br/>
+8.0 Develop the requirement document on “Word”.<br/>
+  </p>
