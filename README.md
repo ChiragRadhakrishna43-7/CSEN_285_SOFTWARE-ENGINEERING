@@ -23,4 +23,20 @@ contacted, Alan Scott, the Vice President of R&D and gave the requirements to de
   <b>5.0 Environment</b><br/>
   5.1 The new system was to run on IBM mainframe.<br/>
   5.2 The warehouse clerks had IBM PCs on their desks.<br/><br/><br/>
+  <b>6.0 Reports</b><br/>
+  Tony Carrasco also wanted several reports produced by the system which indicated:<br/>
+  6.1 Monthly sale $ totals. <br/>
+  6.2 Products that were sold. <br/>
+  6.3 Which sales person sold the products, each sales person can see their report only but not other product reports sold by other sales people. <br/>
+  6.4 Products that were returned. <br/>
+  <b>7.0 Delivery TimeFrame</b><br/>
+  Due to the New Year, Tony wanted to get the new system fully operational by end of
+Dec. 2024. <br/><br/><br/>
+  <b>8.0 General</b><br/>
+  Tony Carrasco knew that his developers did not have enough time to develop and fully
+test the Sales System. He decided to have his developers develop the system and planned
+to hire his friends, Joe Blank, Mike Brosne and Jon Underwood for testing the system. <br/>
+  You are hired as a consultant to assist in test planning and overall test process
+improvement and you are asked to write a Systems Test Plan as your first assignment
+with the Organization.
 </p>
