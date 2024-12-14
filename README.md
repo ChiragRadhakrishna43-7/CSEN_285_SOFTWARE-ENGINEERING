@@ -1,6 +1,6 @@
 # CSEN_285_SOFTWARE-ENGINEERING
 
-<h2><b>E1 Write a Project Development Plan based on the Requirements Document-</b></h2>
+<h2><b>E1: Write a Project Development Plan based on the Requirements Document-</b></h2>
 <p align="justify">For the given requirement document, a detailed software development plan was developed. The specifications of the requirement document are as follows: <br/><br/>
 For any questions regarding the Requirement document, you are to "assume" that you have already asked them and the individual who wrote the Requirement document, have provided the answers to you.<br/>
 The Development Plan is to be in either Word or PowerPoint document. Please use "LARGE" fonts.<br/><br/>
@@ -40,5 +40,18 @@ to hire his friends, Joe Blank, Mike Brosne and Jon Underwood for testing the sy
 improvement and you are asked to write a Systems Test Plan as your first assignment
 with the Organization.<br/><br/><br/>
 
-  <h2><b>E2 Write The Requirement Specification based on the Ideation Findings-</b></h2>
+  <h2><b>E2: Write The Requirement Specification based on The Ideation Findings-</b></h2>
+  Write a requirement document based on the following specifications:<br/>
+  1.0 Print 5000 checks.<br/>
+  2.0 FICA 15.85% deduction.<br/>
+  3.0 State: 10% deduction.<br/>
+  4.0 401 K deductions.<br/>
+  5.0 Printing of three reports: Net/Gross earning: Employee name; employee number; employee address; SS; week ending; hrs. worked; Tax deductions (FICA/State). gross earnings; net earnings & 401 K.<br/>
+  6.0 IBM Client/Server environment.<br/>
+  7.0 Response time: 2 seconds.<br/>
+  8.0 Access for 2800 current employees.<br/>
+  9.0 Only managers can access gross/net earnings reports.<br/>
+  10.0 Employees can see their own net earnings, gross earnings and 401K deductions, Vacation 
+  time (used/remaining).<br/>
+  11.0 Payroll system will interface with GL system and send the earning records to the G/L (general ledger).<br/><br/><br/>
 </p>
