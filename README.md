@@ -38,10 +38,10 @@ test the Sales System. He decided to have his developers develop the system and 
 to hire his friends, Joe Blank, Mike Brosne and Jon Underwood for testing the system. <br/>
   You are hired as a consultant to assist in test planning and overall test process
 improvement and you are asked to write a Systems Test Plan as your first assignment
-with the Organization.<br/><br/><br/>
+with the Organization.<br/><br/><br/></p>
 
   <h2><b>E2: Write The Requirement Specification based on The Ideation Findings-</b></h2>
-  Write a requirement document based on the following specifications:<br/><br/>
+  <p align="justify">Write a requirement document based on the following specifications:<br/><br/>
   1.0 Print 5000 checks.<br/>
   2.0 FICA 15.85% deduction.<br/>
   3.0 State: 10% deduction.<br/>
@@ -53,8 +53,8 @@ with the Organization.<br/><br/><br/>
   9.0 Only managers can access gross/net earnings reports.<br/>
   10.0 Employees can see their own net earnings, gross earnings and 401K deductions, Vacation 
   time (used/remaining).<br/>
-  11.0 Payroll system will interface with GL system and send the earning records to the G/L (general ledger).<br/><br/><br/>
+  11.0 Payroll system will interface with GL system and send the earning records to the G/L (general ledger).</p><br/><br/><br/>
   
   <h2><b>E3: Development of a Software Development Life Cycle Model-</b></h2>
-  Write a SDLC Plan for an E-Commerce Platform Model for a start-up company. Utilize a suitable development process model (Waterfall/Agile/Hybrid/).<br/><br/><br/>
+  <p align="justify">Write a SDLC Plan for an E-Commerce Platform Model for a start-up company. Utilize a suitable development process model (Waterfall/Agile/Hybrid/).<br/><br/><br/>
 </p>
